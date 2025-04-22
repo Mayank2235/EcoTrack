@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453592446711",
+    "project_id": "ecodatabase-a60b6",
+    "storage_bucket": "ecodatabase-a60b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453592446711:android:e0548838807b6cdfdc05f2",
+        "android_client_info": {
+          "package_name": "com.example.prime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmWVJ6brYS76BrX0yLTARe3V0PiMky9mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
